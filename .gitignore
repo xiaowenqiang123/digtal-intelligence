@@ -1,8 +1,7 @@
 node_modules
-.dist
 .vite
 coverage
 .env
 .env.local
 .DS_Store
-src/api/client
+dist
